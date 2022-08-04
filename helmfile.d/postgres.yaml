@@ -8,5 +8,5 @@ repositories:
 releases:
   - name: database
     namespace: my-app
-    chart: bitnami/postgres
+    chart: bitnami/postgresql
     version: 11.6.22
